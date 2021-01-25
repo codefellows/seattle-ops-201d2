@@ -1,8 +1,8 @@
-# Imaging, Backup, and Recovery
+# Workstation Deployment SOP 
 
 ## Overview
 
-As a service desk technician, it's important to be prepared for when computer systems inevitably malfunction and data is lost. Today you will use Windows Recovery and Veeam to perform imaging, backup, and system recovery operations on a Windows 10 VM. You'll get to practice using Microsoft OneDrive to sync a local directory against the Office 365 Cloud. You'll also explore Virtualbox backup capabilities including .ova export and snapshots.
+Your ability to analyze and make contributions to service desk standard operating procedures (SOP) will make you a valuable asset to a growing operations team. In today's lab you will help ABC Electronics standardize some of its internal IT operating procedures by creating forms for each process. You will document a workstation setup procedure for an email user and perform the procedure in your Windows 10 virtual machine (VM).
 
 ## Learning Objectives
 
@@ -10,27 +10,26 @@ As a service desk technician, it's important to be prepared for when computer sy
 
 #### Describe and Define
 
-- Baseline
-- Backup
-- Recovery
-- System Image
-- System Restore
-- OVA
-- Snapshot
+- Standard operating procedure (SOP)
+- Office 365
+- Exchange
 
 #### Execute
 
-- Analyze, initialize, and terminate system processes using Powershell
-- Create snapshots in Virtualbox
-- Export and import OVA system images in Virtualbox
-- Use imaging, backup and recovery tool Veeam
-- Operate Windows Recovery
+- Retrieve system logs using Powershell
+- Communicate technical information effectively and efficiently
+- Communicate technical issues to non-technical users
+- Design fillable PDF forms to facilitate a business process or SOP
+- Create a process flowchart to represent a business process or SOP
+- Follow and develop new SOPs
+- Support and operate **Microsoft Office Suite** and **Office 365**
+- Configure Microsoft Outlook email client for a new user
 
 ## Today's Outline
 
 - Discussion
-- Demo 09(a) Powershell Challenge
-- Lab 09(a) Powershell Challenge
-- Lecture 09(b) System Imaging and Recovery
-- Demo 09(b) System Imaging and Recovery
-- Lab 09(b) System Imaging and Recovery
+- Demo 08(a) Powershell Challenge
+- Lab 08(a) Powershell Challenge
+- Lecture 08(b) Workstation Configuration
+- Demo 08(b) Workstation Configuration
+- Lab 08(b) Workstation Configuration

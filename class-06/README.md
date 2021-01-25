@@ -1,6 +1,6 @@
-# Windows CLI and Powershell
+# Windows Security Center
 
-Today you'll practice Windows command line interface (CLI) and Powershell.
+Windows administrators should be aware of several key tools: Windows Firewall, Windows Defender Antivirus, and Task Manager.
 
 ## Learning Objectives
 
@@ -8,19 +8,22 @@ Today you'll practice Windows command line interface (CLI) and Powershell.
 
 #### Describe and Define
 
-- Command Line Interface (CLI)
-- Powershell
-- Powershell ISE
+- Windows Firewall
+- Windows Defender
+- Windows Task Manager
 
 #### Execute
 
-- Write a Powershell script in Powershell ISE
-- Generate system hardware specs using Powershell scripting
-- Perform common tasks in Windows CLI
+- Block network traffic on a specific port or service
+- Operate Windows Defender AV
+- Stop or start a task with Task Manager
+
 
 ## Today's Outline
 
 - Discussion
-- Lecture 06(a) Windows Command Line & Powershell
-- Lab 06(a): Windows Command Line
-- Lab 06(b): Powershell Challenge
+- Review Lab Class 5
+- Review Ops Challenge Class 5
+- Lecture 
+- Demo 
+- Lab 

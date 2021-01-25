@@ -1,8 +1,8 @@
-# Networking, Ports, & Wi-fi
+# Virtualizing a Router with pfSense
 
 ## Overview
 
-The OSI Model applies to all facets of network operations, from to computer endpoints to mission-critical infrastructure. In today's lecture we review network protocols studied in Ops 102 and break apart the components of a "data packet." Critical network concepts and vocabulary will be revisited including DHCP, DNS, Router, Gateway, Firewall, and more. Commonly used port numbers will be introduced. In today's lab you will access and operate an enterprise-grade router/firewall UTM appliance and practice administrator operations including log analysis and configuration.
+Many computing devices that were traditionally physical hardware appliances have since been virtualized into portable files, much like those you've worked with such as .iso and .ova files. Additionally, open source software solutions have gained tremendous popularity due to their versatility, transparency, and accessibility. Thus far, you've used Ubuntu Linux, an open source OS. Our next open source software we'll use is pfSense, a router/firewall that we can deploy to the lab computer to learn about networking.
 
 ## Learning Objectives
 
@@ -10,25 +10,23 @@ The OSI Model applies to all facets of network operations, from to computer endp
 
 #### Describe and Define
 
-- Data packet
-- Common port numbers
-- Computer network protocols
-  - (TCP/IP, DHCP, DNS, LAN, WAN, VPN)
-- Basic network connectivity systems and protocols
-  - (Ports, Ethernet, Wi-Fi, TCP/IP, DHCP, DNS, LAN, WAN, VPN)
+- pfSense
+- Firewall
 
 #### Execute
 
-- Operate and configure an enterprise-grade router/firewall UTM appliance
-- Assess firewall logs on an enterprise-grade router/firewall UTM appliance
-- Analyze network data dashboards to draw conclusions about user behavior and policy effectiveness
+- Deploy pfSense to a VirtualBox VM from the .iso file
 
 ## Today's Outline
 
 - Discussion
-- Review Lab Class 11
-- Review Ops Challenge Class 11
-- Lecture 12 Networking, Ports, & Wi-Fi
-- Demo Lab 12 Networking, Ports, & Wi-Fi
-- Lab 12 Networking, Ports, & Wi-Fi
+- Review Lab Class 10
+- Review Ops Challenge Class 10
+- Lecture 11 
+- Demo 
+- Lab 11
 
+## Resources
+
+- [Download pfSense](https://www.pfsense.org/download/)
+- [How to install pfSense on VirtualBox or Vmware player](https://www.how2shout.com/how-to/install-pfsense-VirtualBox-linux-vmware-player.html)

@@ -1,6 +1,8 @@
 # Issue tracking system
 
-At the IT entry level, technicians should be prepared to monitor an incoming issue tracking system and handle the issues as a team of professionals with differing areas of expertise. There's a team dynamic of not only "divide and conquer" but also a gradual process of getting to know what each team member likes to do and wants to do.
+## Overview
+
+Issue tracking systems are a useful way to manage and resolve a technical workload as part of routine service desk operations. This exercise will expose you to common Windows problems and challenge you to document the problems in the Spiceworks ticketing system.
 
 ## Learning Objectives
 
@@ -20,11 +22,14 @@ At the IT entry level, technicians should be prepared to monitor an incoming iss
 - **Respond, log, track and escalate support tickets** in an issue tracking system
 - Collaboratively utilize knowledge management and **documentation** systems
 
+## Resources
+
+- [Spiceworks Hepdesk Guide](https://3upg5n1ajpdonqkkp34tcif1-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/help-desk-getting-started-guide.pdf)
+
 ## Today's Outline
 
 - Discussion
 - Demo: Class 03(a) Automation Challenge
-- Lab: Class 03(a) Automation Challenge
+- Class 03(a) Automation Challenge
 - Lecture: Class 03(b) Service Desk
-- Lab: Class 03(b) Service Desk
-
+- Class 03(b) Service Desk

@@ -1,6 +1,13 @@
-# Registry and Event Viewer
+# OS Upgrade and Remote Access
 
-Today you'll learn how to analyze Windows system logs using Event Viewer. You'll also be introduced to the Windows registry.
+## Overview
+
+Some basics you'll need to succeed in supporting Windows-based systems include handing different versions of the OS, as well as establishing RDP connectivity.
+
+## Resources
+
+- [How to Upgrade to Windows 10 From Windows 7 for Free](https://www.howtogeek.com/509087/how-to-upgrade-from-windows-7-to-windows-10-for-free/)
+- [How to enable and use remote desktop in Windows 10](https://www.techradar.com/how-to/how-to-enable-and-use-remote-desktop-in-windows-10)
 
 ## Learning Objectives
 
@@ -8,32 +15,16 @@ Today you'll learn how to analyze Windows system logs using Event Viewer. You'll
 
 #### Describe and Define
 
-- Virtual machine network modes
-  - Bridge
-  - NAT
-  - Host-only
-- Stop code
-- Blue screen of death (BSOD)
-- Memory address
-- Registry
-- Event Viewer
-- System log
+- Windows editions
+- RDP
 
 #### Execute
 
-- Configure network modes on a virtual machine
-- Perform common, useful diagnostic operations in Windows CLI
-- Perform root cause analysis against system crash messages
-- Utilize Powershell's `Invoke-Command` commandlet to establish a persistent shell to another computer
-- Issue administrative Powershell commands to another computer
-- Operate Registry Editor
-- Operate Event Viewer
+- Upgrade from Windows 7 to Windows 10
+- Setup RDP access to Windows 10
 
 ## Today's Outline
 
 - Discussion
-- Demo 07(a) Powershell Challenge
-- Lab 07(a) Powershell Challenge
-- Lecture 07(a) Registry and Event Viewer
-- Demo 07(a) Registry and Event Viewer
-- Lab 07(a) Registry and Event Viewer
+- Lecture 06 
+- Lab 06 

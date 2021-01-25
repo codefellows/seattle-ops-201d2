@@ -4,12 +4,8 @@ Today we'll assemble project teams and work on deciding each team's project topi
 
 ## Today's Outline
 
-Guest Presentation: Psychological Safety
-
-Review of Ops 201 in preparation for final exam
-
-Project Team formation
-
-Project Topic assignment
-
-Final Exam open
+- Guest Presentation: Psychological Safety
+- Review of Ops 201 in preparation for final exam
+- Project Team formation
+- Project Topic assignment
+- Final Exam opens

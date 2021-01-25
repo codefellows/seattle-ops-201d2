@@ -1,6 +1,8 @@
-# Virtual networking with GNS3
+# Malware Remediation Tools and Techniques 
 
-Today you will setup GNS3 as part of required prework for Ops 301. GNS3 is a network virtualization application that integrates with tools like Virtualbox and VMware to allow for the hosting of a multi-host LAN on your host computer. This allows us to design ambitious sprawling networks using functional VMs without the need for cumbersome computer hardware in our physical workspace.
+## Overview
+
+As a computer operations technician, you'll encounter malware more likely sooner than later. Malicious software can take many forms, including browser extensions and innocuous-looking software or script files. Identifying malware can feel like finding a needle in a haystack if you don't have the right tools. Some useful tools you'll apply to this scenario today include Process Explorer and WinDirStat. These are generally useful tools that can provide administrators additional information about a computer.
 
 ## Learning Objectives
 
@@ -8,21 +10,31 @@ Today you will setup GNS3 as part of required prework for Ops 301. GNS3 is a net
 
 #### Describe and Define
 
-- GNS3
-- Cisco Packet Tracer
-- Simulation vs. Emulation
+- Malware
+- Process Explorer
+- WinDirStat
+- Page file
 
 #### Execute
 
-- Install and configure the GNS3 network simulator application
-- Create a simple virtual LAN in GNS3
-- Virtualize appliances within GNS3
+- Remediate a minor malware infection on a Windows 10 endpoint.
+- Utilize administrator tools to generate additional system information.
+- Communicate findings.
 
 ## Today's Outline
 
 - Discussion
-- Review Lab 12
-- Review Ops Challenge 12
-- Lecture 13: GNS3 Setup, Configuration, and Testing
-- Demo 13: GNS3 Setup, Configuration, and Testing
-- Lab 13: GNS3 Setup, Configuration, and Testing
+- Review Lab Class 11
+- Review Ops Challenge Class 11
+- Lecture 12 
+- Demo Lab 12 
+- Lab 12 
+
+## Resources
+
+- ops201-class12.ova
+- CPU-Z
+- Process Explorer
+- WinDirStat
+
+

@@ -1,6 +1,8 @@
-# Data Repair and Disposal
+# Imaging, Backup, and Recovery
 
-Today you'll learn some useful data forensics tools and operations, including how to repair corrupt data and how to permanently delete data. Skills learned today can be applied to both IT systems availability and security forensics contexts.
+## Overview
+
+As a service desk technician, it's important to be prepared for when computer systems inevitably malfunction and data is lost. Today you will use Windows Recovery and Veeam to perform imaging, backup, and system recovery operations on a Windows 10 VM. You'll get to practice using Microsoft OneDrive to sync a local directory against the Office 365 Cloud. You'll also explore VirtualBox backup capabilities including .ova export and snapshots.
 
 ## Learning Objectives
 
@@ -8,27 +10,27 @@ Today you'll learn some useful data forensics tools and operations, including ho
 
 #### Describe and Define
 
-- Data file corruption 
-- Data repair operations in Windows OS
-- Data recovery tools
-- Data disposal tools and best practices
+- Baseline
+- Backup
+- Recovery
+- System Image
+- System Restore
+- OVA
+- Snapshot
 
 #### Execute
 
-- Repair corrupt Windows OS system files
-- Repair corrupt boot sector data
-- Access the command line terminal from outside of the Windows OS
-- Perform data erasure using DBAN
-- Recover "deleted" data
-- Draft SOP for secure data disposal
+- Analyze, initialize, and terminate system processes using Powershell
+- Create snapshots in VirtualBox
+- Export and import OVA system images in VirtualBox
+- Use imaging, backup and recovery tool Veeam
+- Operate Windows Recovery
 
 ## Today's Outline
 
 - Discussion
-- Review Lab 09
-- Review Ops Challenge 09
-- Demo 10(a) Powershell Challenge
-- Lab 10(a) Powershell Challenge
-- Lecture 10(b) Secure Data Disposal
-- Demo 10(b) Secure Data Disposal
-- Lab 10(b) Secure Data Disposal
+- Demo 09(a) Powershell Challenge
+- Lab 09(a) Powershell Challenge
+- Lecture 09(b) System Imaging and Recovery
+- Demo 09(b) System Imaging and Recovery
+- Lab 09(b) System Imaging and Recovery

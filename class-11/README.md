@@ -1,8 +1,12 @@
-# DD-WRT Router Firmware
+# Data Restoration, Startup Repair, and Secure Disposal
 
 ## Overview
 
-Installing firmware is a common operation when handling hardware devices. Often the manufacturer will require you to update firmware of a device before support can be delivered. Therefore, it is good practice to keep an eye on firmware versions of all critical network infrastructure in your organization. Some devices are able to load third party firmware to enhance its capabilities. Today you will install a custom firmware, DD-WRT, to the Linksys router from the Ops lab kit in order to enhance its capabilities. 
+Computer users make mistakes. Sometimes, those mistakes involve losing access to precious company data. As an Ops professional, you'll need to know how to restore deleted or corrupted data files.
+
+# Data Repair and Disposal
+
+Today you'll learn some useful data forensics tools and operations, including how to repair corrupt data and how to permanently delete data. Skills learned today can be applied to both IT systems availability and security forensics contexts.
 
 ## Learning Objectives
 
@@ -10,22 +14,34 @@ Installing firmware is a common operation when handling hardware devices. Often 
 
 #### Describe and Define
 
-- DD-WRT
-- Custom Firmware
-- Open Source Firmware
+- Data file corruption 
+- Data repair operations in Windows OS
+- Data recovery tools
+- Data disposal tools and best practices
 
 #### Execute
 
-- Download custom firmware and "flash" it to a computer device
-- Identify BIOS version and update BIOS on a computer device
-- Deploy, access, navigate, and configure a SoHo router
-- Troubleshoot a SoHo router
+- Repair corrupt Windows OS system files
+- Repair corrupt boot sector data
+- Access the command line terminal from outside of the Windows OS
+- Perform data erasure using DBAN
+- Recover "deleted" data
 
 ## Today's Outline
 
 - Discussion
-- Review Lab Class 10
-- Review Ops Challenge Class 10
-- Lecture 11 DD-WRT Router
-- Demo DD-WRT Router
-- Lab 11 DD-WRT Router
+- Review Lab 09
+- Review Ops Challenge 09
+- Demo 10(a) Powershell Challenge
+- Lab 10(a) Powershell Challenge
+- Lecture 10(b) Secure Data Disposal
+- Demo 10(b) Secure Data Disposal
+- Lab 10(b) Secure Data Disposal
+
+## Resources
+
+- ops201-class10.ova
+- [EaseUS Recovery Tool](https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm){:target="_blank"}
+- [Darik's Boot and Nuke (DBAN) ISO file](https://sourceforge.net/projects/dban/files/dban/dban-2.3.0/dban-2.3.0_i586.iso/download){:target="_blank"}
+
+

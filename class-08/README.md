@@ -1,8 +1,6 @@
-# Standard Operating Procedures 
+# Registry and Event Viewer
 
-## Overview
-
-Your ability to analyze and make contributions to service desk standard operating procedures (SOP) will make you a valuable asset to a growing operations team. In today's lab you will help ABC Electronics standardize some of its internal IT operating procedures by creating forms for each process. You will document a workstation setup procedure for an email user and perform the procedure in your Windows 10 virtual machine (VM).
+Today you'll learn how to analyze Windows system logs using Event Viewer. You'll also be introduced to the Windows registry.
 
 ## Learning Objectives
 
@@ -10,26 +8,32 @@ Your ability to analyze and make contributions to service desk standard operatin
 
 #### Describe and Define
 
-- Standard operating procedure (SOP)
-- Office 365
-- Exchange
+- Virtual machine network modes
+  - Bridge
+  - NAT
+  - Host-only
+- Stop code
+- Blue screen of death (BSOD)
+- Memory address
+- Registry
+- Event Viewer
+- System log
 
 #### Execute
 
-- Retrieve system logs using Powershell
-- Communicate technical information effectively and efficiently
-- Communicate technical issues to non-technical users
-- Design fillable PDF forms to facilitate a business process or SOP
-- Create a process flowchart to represent a business process or SOP
-- Follow and develop new SOPs
-- Support and operate **Microsoft Office Suite** and **Office 365**
-- Configure Microsoft Outlook email client for a new user
+- Configure network modes on a virtual machine
+- Perform common, useful diagnostic operations in Windows CLI
+- Perform root cause analysis against system crash messages
+- Utilize Powershell's `Invoke-Command` commandlet to establish a persistent shell to another computer
+- Issue administrative Powershell commands to another computer
+- Operate Registry Editor
+- Operate Event Viewer
 
 ## Today's Outline
 
 - Discussion
-- Demo 08(a) Powershell Challenge
-- Lab 08(a) Powershell Challenge
-- Lecture 08(b) Workstation Configuration
-- Demo 08(b) Workstation Configuration
-- Lab 08(b) Workstation Configuration
+- Demo 07(a) Powershell Challenge
+- Lab 07(a) Powershell Challenge
+- Lecture 07(a) Registry and Event Viewer
+- Demo 07(a) Registry and Event Viewer
+- Lab 07(a) Registry and Event Viewer

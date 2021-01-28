@@ -27,9 +27,10 @@ Your ability to analyze and make contributions to service desk standard operatin
 
 ## Today's Outline
 
-- Discussion
-- Demo 08(a) Powershell Challenge
-- Lab 08(a) Powershell Challenge
-- Lecture 08(b) Workstation Configuration
-- Demo 08(b) Workstation Configuration
-- Lab 08(b) Workstation Configuration
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab

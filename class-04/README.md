@@ -22,9 +22,10 @@ Approaching computer problems using a troubleshooting methodology can be useful 
 
 ## Today's Outline
 
-- Discussion
-- Demo: Class 04(a) Automation Challenge
-- Class 04(a) Automation Challenge
-- Lecture 04(b): Troubleshooting Methodology
-- Demo 04(b): Troubleshooting Methodology
-- Lab 04(b): Troubleshooting Methodology
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab

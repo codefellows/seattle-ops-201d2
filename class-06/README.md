@@ -21,9 +21,10 @@ Windows administrators should be aware of several key tools: Windows Firewall, W
 
 ## Today's Outline
 
-- Discussion
-- Review Lab Class 5
-- Review Ops Challenge Class 5
-- Lecture 
-- Demo 
-- Lab 
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab

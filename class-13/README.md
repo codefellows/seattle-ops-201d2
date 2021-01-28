@@ -23,12 +23,13 @@ As a computer operations technician, you'll encounter malware more likely sooner
 
 ## Today's Outline
 
-- Discussion
-- Review Lab Class 11
-- Review Ops Challenge Class 11
-- Lecture 12 
-- Demo Lab 12 
-- Lab 12 
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab
 
 ## Resources
 
@@ -36,5 +37,3 @@ As a computer operations technician, you'll encounter malware more likely sooner
 - CPU-Z
 - Process Explorer
 - WinDirStat
-
-

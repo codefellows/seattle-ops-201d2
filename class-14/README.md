@@ -24,9 +24,10 @@ Today you will learn how virtual machines (VMs) can be hosted and configured in 
 
 ## Today's Outline
 
-- Discussion
-- Review Lab 13
-- Review Ops Challenge 13
-- Lecture 14: Cloud Virtualization with AWS
-- Demo 14: Cloud Virtualization with AWS
-- Lab 14: Cloud Virtualization with AWS
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab

@@ -29,19 +29,16 @@ Today you'll learn some useful data forensics tools and operations, including ho
 
 ## Today's Outline
 
-- Discussion
-- Review Lab 09
-- Review Ops Challenge 09
-- Demo 10(a) Powershell Challenge
-- Lab 10(a) Powershell Challenge
-- Lecture 10(b) Secure Data Disposal
-- Demo 10(b) Secure Data Disposal
-- Lab 10(b) Secure Data Disposal
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab
 
 ## Resources
 
 - ops201-class10.ova
 - [EaseUS Recovery Tool](https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm){:target="_blank"}
 - [Darik's Boot and Nuke (DBAN) ISO file](https://sourceforge.net/projects/dban/files/dban/dban-2.3.0/dban-2.3.0_i586.iso/download){:target="_blank"}
-
-

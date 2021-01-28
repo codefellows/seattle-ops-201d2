@@ -20,9 +20,10 @@ Git and VS Code will come in handy as we progress through the Ops program. Git l
 
 ## Today's Outline
 
-- Discussion
-- Review Lab 12
-- Review Ops Challenge 12
-- Lecture 13: GNS3 Setup, Configuration, and Testing
-- Demo 13: GNS3 Setup, Configuration, and Testing
-- Lab 13: GNS3 Setup, Configuration, and Testing
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab

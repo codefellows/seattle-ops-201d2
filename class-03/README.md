@@ -17,10 +17,9 @@ Issue tracking systems are a useful way to manage and resolve a technical worklo
 
 #### Execute
 
-- Concatenate a string in bash
-- Increment an integer variable in bash as part of a loop
+- Create a Bash script that uses a function
 - **Respond, log, track and escalate support tickets** in an issue tracking system
-- Collaboratively utilize knowledge management and **documentation** systems
+- Troubleshoot a software configuration issue in Windows 10
 
 ## Resources
 

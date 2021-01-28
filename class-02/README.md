@@ -17,6 +17,7 @@ Git and VS Code will come in handy as we progress through the Ops program. Git l
 - Create a lightweight Ubuntu Server 20.10 VM as a development environment
 - Install and operate Git
 - Install and operate VS Code
+- Create a Bash script that uses a variable
 
 ## Today's Outline
 

@@ -15,7 +15,7 @@ Approaching computer problems using a troubleshooting methodology can be useful 
 
 #### Execute
 
-- Use bash scripting to generate a system information report
+- Create a Bash script that uses an array
 - Apply the CompTIA Troubleshooting Methodology
 - Configure a new internal hard drive in Windows
 - Resolve application corruption in Windows

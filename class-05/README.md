@@ -16,7 +16,7 @@ Bring it all together! Combine your skills in troubleshooting, documentation, pr
 
 #### Execute
 
-- Automate data backup using bash scripting
+- Create a Bash script that uses a loop
 - Analyze user or business requirements and suggest appropriate solutions
 - Deliver customer service over phone, remotely, or in person
 - Communicate technical information effectively, efficiently, and professionally

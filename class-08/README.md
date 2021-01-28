@@ -31,9 +31,10 @@ Today you'll learn how to analyze Windows system logs using Event Viewer. You'll
 
 ## Today's Outline
 
-- Discussion
-- Demo 07(a) Powershell Challenge
-- Lab 07(a) Powershell Challenge
-- Lecture 07(a) Registry and Event Viewer
-- Demo 07(a) Registry and Event Viewer
-- Lab 07(a) Registry and Event Viewer
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab

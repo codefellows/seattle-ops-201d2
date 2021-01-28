@@ -28,8 +28,10 @@ Issue tracking systems are a useful way to manage and resolve a technical worklo
 
 ## Today's Outline
 
-- Discussion
-- Demo: Class 03(a) Automation Challenge
-- Class 03(a) Automation Challenge
-- Lecture: Class 03(b) Service Desk
-- Class 03(b) Service Desk
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab

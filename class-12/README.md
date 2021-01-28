@@ -19,12 +19,13 @@ Many computing devices that were traditionally physical hardware appliances have
 
 ## Today's Outline
 
-- Discussion
-- Review Lab Class 10
-- Review Ops Challenge Class 10
-- Lecture 11 
-- Demo 
-- Lab 11
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab
 
 ## Resources
 

@@ -25,6 +25,10 @@ Some basics you'll need to succeed in supporting Windows-based systems include h
 
 ## Today's Outline
 
-- Discussion
-- Lecture 06 
-- Lab 06 
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab

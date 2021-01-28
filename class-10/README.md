@@ -28,9 +28,10 @@ As a service desk technician, it's important to be prepared for when computer sy
 
 ## Today's Outline
 
-- Discussion
-- Demo 09(a) Powershell Challenge
-- Lab 09(a) Powershell Challenge
-- Lecture 09(b) System Imaging and Recovery
-- Demo 09(b) System Imaging and Recovery
-- Lab 09(b) System Imaging and Recovery
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab

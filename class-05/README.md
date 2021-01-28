@@ -24,9 +24,10 @@ Bring it all together! Combine your skills in troubleshooting, documentation, pr
 
 ## Today's Outline
 
-- Discussion
-- Demo 05a Automation Challenge
-- Lab 05a Automation Challenge
-- Lecture 05(b): Remote Tech Support
-- Demo 05(b): Remote Tech Support
-- Lab 05(b): Remote Tech Support
+- Course Overview
+- Review Previous Lab
+- Review Previous Ops Challenge
+- Demo Today's Ops Challenge
+- Lecture Today's Lab Topic
+- Demo Today's Lab Topic
+- Lab

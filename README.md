@@ -37,7 +37,6 @@ This course will utilize premade scenarios for certain classes. You'll also need
 - Class-08
   - This lab uses your own Windows 10 VM.
 - Class-09
-  - Download [Foxit PhantomPDF](https://www.foxitsoftware.com/downloads/). You may alternatively use Adobe Acrobat Pro DC if you have a subscription to it.
   - This lab uses your own Windows 10 VM.
 - Class-10
   - This lab uses your own Windows 10 VM.

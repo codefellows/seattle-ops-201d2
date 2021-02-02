@@ -1,4 +1,4 @@
-# Ops Challenge - System Performance Indicators
+# Ops Challenge - System Information
 
 ## Overview
 
@@ -6,7 +6,5 @@ When working on a new system or troubleshooting performance issues, a quick look
 
 ## Resources
 
-- [Linux lshw Command Tutorial for Beginners](https://www.howtoforge.com/linux-lshw-command/)
-- [How to Use the free Command in Linux](https://www.howtogeek.com/456943/how-to-use-the-free-command-on-linux/)
-- [Linux vmstat Command Tutorial for Beginners](https://www.howtoforge.com/linux-vmstat-command/)
-
+- [Linux lshw Command Tutorial for Beginners](https://www.howtoforge.com/linux-lshw-command/){:target="_blank"}
+- [How to use the Linux Grep Commmand](https://careerkarma.com/blog/linux-grep-command/){:target="_blank"}

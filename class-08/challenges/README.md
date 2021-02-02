@@ -5,3 +5,4 @@ In Windows, we can script basic terminal commands using batch files. If you're u
 ## Resources
 
 - [How to Use Windows Batch File Commands to Automate Repetitive Tasks](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/)
+- [Wikibooks: Windows Batch Scripting](https://en.wikibooks.org/wiki/Windows_Batch_Scripting)

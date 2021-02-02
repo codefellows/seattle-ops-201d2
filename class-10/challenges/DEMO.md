@@ -3,7 +3,7 @@
 ## Demo Code
 
 ```
-# Script Name: Demo Ops 201 Class 09
+# Script Name: Demo Ops 201 Class 10
 # Author: David Lee
 # Date of last revision:
 # Purpose: Demo

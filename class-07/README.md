@@ -17,6 +17,9 @@ Some basics you'll need to succeed in supporting Windows-based systems include h
 
 - Windows editions
 - RDP
+- `grep`
+- Pipe (`|`)
+- Powershell
 
 #### Execute
 

@@ -5,7 +5,7 @@ Today we're practicing the Get-EventLog commandlet in Powershell.
 ## Demo Code
 
 ```
-# Script Name: Demo Ops 201 Class 08
+# Script Name: Demo Ops 201 Class 09
 # Author: David Lee
 # Date of last revision:
 # Purpose: Demo

@@ -1,4 +1,4 @@
-# Ops Challenge - System Performance Indicators
+# Ops Challenge - System Information
 
 ## Demo Code
 
@@ -7,43 +7,14 @@ The demo code below introduces concepts necessary to complete the challenge. New
 ```bash
 #!/bin/bash
 
-# Script:                       Ops 201 Ops Chall 04
-# Author:                       David Lee
-# Date of latest revision:      7/20/2020
-# Purpose:                      Function
+# Script:                       
+# Author:                       
+# Date of latest revision:      
+# Purpose:                      
 
-# How to declare a function 
-this_function(){
-  echo "hello world"
-}
+# Declaration of variables
 
-# How to run a function
-this_function
-
-# How to run lshw
-lshw -short
-
-# View how much memory is available
-free
-
-# System performance
-vmstat
-
-# Save information to a file
-vmstat > vmstat.txt
-
-# Open an application
-firefox
-libreoffice
-
-# Open an application and have it do something
-firefox https://www.codefellows.org/courses/ops-201/foundations-of-computer-operations/
-libreoffice --writer vmstat.txt
-
-# Read manual for an application
-man firefox
-man libreoffice
-
-# End
-
+# Main
+# Search the output of lshw command and returns every line with the word bridge in it
+lshw | grep “bridge” 
 ```

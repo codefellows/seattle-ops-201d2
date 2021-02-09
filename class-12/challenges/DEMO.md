@@ -5,7 +5,7 @@ Here are the tools needed for today's Ops Challenge. Most notably we're using `S
 ## Demo Code
 
 ```powershell
-# Script Name: Demo Ops 201 Class 11
+# Script Name: Demo Ops 201 Class 12
 # Author: David Lee
 # Date of last revision:
 # Purpose: Demo tools used in today's Ops Challenge
@@ -22,12 +22,12 @@ ping google.com
 ping 127.0.0.1
 
 # Variable declaration and call
-$Ping_Google = ping google.com
-$Ping_Google
+$target = google.com
+ping $target
 
 ### NEW TOOLS ###
 
-# How to use Select-String
+# How to use the Select-String cmdlet
 
 # Select-String -Path [literal file path] -Pattern [pattern to search for]
 

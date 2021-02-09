@@ -25,7 +25,6 @@ ping 127.0.0.1
 $Ping_Google = ping google.com
 $Ping_Google
 
-
 ### NEW TOOLS ###
 
 # How to use Select-String
@@ -43,30 +42,27 @@ Select-String -Path "ping_test.txt" -Pattern 'Packets:'
 rm "ping_test.txt"
 
 # How to declare and call a function in Powershell
-Function Do-Stuff
-{
-echo "I'm doing stuff!"
+Function Do-Stuff {
+  echo "I'm doing stuff!"
 }
 
 Do-Stuff
 
 # What's so great about functions? Do LOTS of stuff in a single function.
-Function Do-More-Stuff
-{
-echo "I'm doing stuff!"
-echo "I'm doing more stuff like pinging google.com! Watch:"
-ping google.com
+Function Do-More-Stuff {
+  echo "I'm doing stuff!"
+  echo "I'm doing more stuff like pinging google.com! Watch:"
+  ping google.com
 }
 
 Do-More-Stuff
 
 # We can put variables inside of functions to add complexity
-Function Do-More-Stuff-Using-Variables
-{
-$ping_test = ping google.com
-echo "I'm doing stuff with functions and variables!"
-echo "I'm doing more stuff like pinging google.com! Watch:"
-$ping_test
+Function Do-More-Stuff-Using-Variables {
+  $ping_test = ping google.com
+  echo "I'm doing stuff with functions and variables!"
+  echo "I'm doing more stuff like pinging google.com! Watch:"
+  $ping_test
 }
 
 Do-More-Stuff-Using-Variables

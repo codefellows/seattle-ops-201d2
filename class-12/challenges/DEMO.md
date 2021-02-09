@@ -59,10 +59,10 @@ Do-More-Stuff
 
 # We can put variables inside of functions to add complexity
 Function Do-More-Stuff-Using-Variables {
-  $ping_test = ping google.com
+  $target = google.com
   echo "I'm doing stuff with functions and variables!"
   echo "I'm doing more stuff like pinging google.com! Watch:"
-  $ping_test
+  ping $target
 }
 
 Do-More-Stuff-Using-Variables

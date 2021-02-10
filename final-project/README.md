@@ -82,8 +82,6 @@ Each member of the team must have a speaking part. It is okay to use note cards 
 - A technical obstacle or two and how those obstacles were overcome
 - A portion of the final application that each team member is particularly proud of
 
-In general, do not show code during the presentation unless the audience asks to see it. Have a code editor open just in case though.
-
 The appropriate dress code is business casual - not too formal and not too casual.
 
 In addition to the scheduled practice session, the team is encouraged to continue to practice on their own. Keep track of the time and adjust accordingly. Practice with the microphone (muting / unmuting, or holding something if in-person) to feel comfortable with it, and practice passing the microphone between team members as you switch speaking roles if in-person.
@@ -100,58 +98,56 @@ Technical merit of the project overall is evaluated according the requirements.
 
 ### Scenario
 
-Your team is a "Managed Service Provider" (MSP) and has been selected as one of the top companies to be contracted as a company's sole IT support. You are in talks with this potential new client. The decision-makers (CEO and other execs) of your client want to know, in a single presentation, what you will do for their company. Your presentation should be the most competitive and convincing that you will provide the best service and support for endpoint workstations.
+Your team is a "Managed Service Provider" (MSP) and has been selected as one of the top companies to be contracted as a company's sole IT support, but you still need to win over the client as to why you're the best choice of MSP to work with. The role of client company will be played by your instructor, who will provide you with a fictional scenario consisting of a business, a business objective, required OS, and required software applications.
 
-- Choose a real company as your example.  
-  - Company size: less than 500 people.
-  - Use only publically available information/intelligence about the company. Dig deep to see how much you can learn!
-  - Do not fabricate information to fill in gaps.
-  - Do not include sensitive or confidential information such as vulnerabilities identified during your research of the organization.
-- Your pitch will be to the executives at the company.
+Your job is to prepare a technical demonstration of how you will meet the given requirements to help the client achieve its business objective.
 
 ### Presentation
 
 Components of the presentation must include:
 
 - Introduce your MSP by name, and team members.
-- As the "Problem Domain", describe the company you selected. Highlight what you researched about the company from public information, and why your MSP is a good fit (eg: why you selected this company for this project).
-- Discuss the client engagement proposal.
-- What will you do to offer IT support for the company’s desktop/laptop systems? - Build your pitch!
-- Use draw.io to create a network diagram of the organization’s LAN and cloud environments.
-  
+- Describe the "Problem Domain" that your instructor provided, including business objectives and any OS or software required.
+
 - Present live technical demonstrations
   - All team members must present an equal share of the live technical demonstrations.
-  - Live technical demonstration of a system that facilitates desktop service delivery (Spiceworks may not be used):
-    - Including a complete ticket workflow (from creation to resolution, including reporting of KPIs and other analytics) including all systems involved. 
-    - Demonstrate how your MSP will document the client's assets and services (use the ITIL framework). Create this based on your best guess about what the company is likely to have. 
-    - What will their service catalog and device inventory look like? For device inventory, include a discussion of how hardware lifecycles will be managed and how equipment will be disposed of. How will you source computers and parts? 
-  - Live technical demonstration of a collection of shell scripting solutions that automates repetitive or tedious processes and adds value to organizational operations. Each team member must contribute one shell script to the project and present it themselves, explaining how it adds value as well as describing the technical structure of the script.
-  - Live technical demonstration of a network appliance and how the device will be configured to secure the network perimeter and deliver outstanding security and performance. 
-  - Live technical demonstration of a cloud system you will support, and how your processes add value to the system.
+  - The presentation consists of a full provisioning demonstration of a computer system, as well as key operations.
+    - A. OS provisioning 
+      - A1. Demonstrate tool-based provisioning of the required OS. 
+        - You may not demonstrate standard OEM deployment procedures, but must incorporate a new tool of your choosing into the OS provisioning procedure. Examples of such a tool for Windows include [Windows Autopilot](https://docs.microsoft.com/en-us/mem/autopilot/), [Microsoft Deployment Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=54259), and [PXE Boot](https://docs.microsoft.com/en-us/troubleshoot/mem/configmgr/understand-pxe-boot). Ideas for Linux can be found on [7 Best Free Linux Server Provisioning Tools](https://www.linuxlinks.com/serverprovisioning/) or you might also consider [PXE Boot](https://docs.microsoft.com/en-us/troubleshoot/mem/configmgr/understand-pxe-boot).
+        - Skip processes that take a long time to complete. Remember, your demo time is limited.
+    - B. System operations
+      - B1. Demonstrate user provisioning of a single end-user (non-administrator account).
+      - B2. Demonstrate how remote connectivity will be established to the system by both your MSP and its end user.
+         - The end user must have remote access to a user profile with the correct level of permissions (non-administrator). Your MSP must also have remote access to a user profile, however the MSP's will have administrator permissions.
+      - B3. Demonstrate how the most important software application will be provisioned and supported by the MSP.
+      - B4. Demonstrate a single file or folder data backup and restoration procedure.
+        - How will your MSP mitigate the risk of data loss on this new computer system? Your presentation should mention as well how you would perform a baremetal restoration if the OS were to be rendered inoperable.
+    - C. Task automation
+      - C1. The presentation must include a live technical demonstration of a shell scripting solution that automates repetitive or tedious processes. 
+        - Each team member must contribute one shell script to the project.
+        - Not every contributed shell script must be presented on demo day. You will likely only have time to share one.
 
-### MSP Statement of Work
+### Deliverables
 
 Submit to instructor a single MSP Statement of Work including below deliverables. The document must be submitted as a Google Doc, with a complete version history showing how it was created. All team members are to contribute an equal share to the MSP Statement of Work document and should clearly indicate which components each contributed to in their individual project submission notes.
 
-  - Acceptable Use Policy (AUP): How are users to handle and use company-owned computer technologies?
-  - Bring Your Own Device Policy (BYOD): How are users to handle and use personally-owned computer technologies while on organization campus?
-  - Service Level Agreement (SLA): Compose a complete, original, branded Service Level Agreement clearly indicating service delivery times and scope of services supported
-  - Standard Operating Procedures (SOP): Compose thorough SOPs for each of the following:
-     - How will you backup and restore user data, critical infrastructure configurations and hosted data?
-     - How will you securely dispose of sensitive data from storage media?
-     - How will you perform the support engagements/interactions? 
-     - What troubleshooting methodology will your technicians follow during support engagements? 
-     - How will user or department technology purchase requests be handled?
-     - How will technology needs be handled for employees being onboarded?
-     - How will technology needs be handled for employees being terminated?
-     - How will remote, offsite support engagements take place? 
-     - How will you secure Windows 10 endpoint workstations from data loss and malware threats?
-     - How will you administer and support Windows systems?
-     - How will your company enhance the network’s usability and security?
-     - How will you support company cloud services?
-  - For **each** SOP included in your MSP SOW deliverable, attribute authorship to the team member.
-  - For **each** SOP included in your MSP SOW deliverable, including **all** of the below components that apply to the SOP below the SOP text.
-     - Forms: Create a form related to each SOP where a form would benefit the process and be applicable/relevant. 
-        - Forms must be created as PDFs with fillable fields. In your Google Doc SOW, paste screencaps of the form below its corresponding SOP.
-     - Process flowcharts: Create a process flowchart related to each SOP. Include the flowchart under your text body of the SOP.
-     - Work Instructions: Include work instructions for detailed step-by-step workflows.
+  - D. Service Level Agreement (SLA)
+    - Compose a complete, original, branded Service Level Agreement clearly indicating service delivery times and scope of services supported
+  - E. Standard Operating Procedures (SOP)
+    - Compose thorough SOPs for each of the following:
+      - How will you backup and restore user data, critical infrastructure configurations and hosted data?
+      - How will you securely dispose of sensitive data from storage media?
+      - How will you perform the support engagements/interactions? 
+      - What troubleshooting methodology will your technicians follow during support engagements? 
+      - How will user or department technology purchase requests be handled?
+      - How will technology needs be handled for employees being onboarded?
+      - How will technology needs be handled for employees being terminated?
+      - How will remote, offsite support engagements take place? 
+      - How will you secure Windows 10 endpoint workstations from data loss and malware threats?
+      - How will you administer and support Windows systems?
+      - How will your company enhance the network’s usability and security?
+      - How will you support company cloud services?
+    - For **each** SOP included in your MSP SOW deliverable, attribute authorship to the team member. 
+    - F. Systems Documentation
+      - Include in your deliverable any relevant information required for the operation of the demonstrated system.
